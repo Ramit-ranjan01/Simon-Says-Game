@@ -1,5 +1,5 @@
 # Simon-Says-Game
-A classic Simon Says game built with tech stack: HTML, CSS, JavaScript . Test your memory and have fun!
+=> A classic Simon Says game built with tech stack: HTML, CSS, JavaScript . Test your memory and have fun!
 
 -> A simple browser-based Simon Says memory game.
 
